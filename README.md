@@ -1,10 +1,10 @@
 # Project Using 
 
-## Python
+Python
 
-## Keras (Machine learning package for python)
+Keras (Machine learning package for python)
 
-## FASTAPI 
+FASTAPI 
 
-## DATABASE : cassandra DB (Manage Astra DB)
+DATABASE : cassandra DB (Manage Astra DB)
 
